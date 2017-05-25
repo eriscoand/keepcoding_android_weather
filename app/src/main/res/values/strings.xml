@@ -1,10 +1,17 @@
 <resources>
-    <string name="app_name">Guedr</string>
+    <string name="app_name">Güedr</string>
     <string name="change_stone_system">Cambiar a sistema piedra</string>
     <string name="offline_weather_image_content_description">Imagen para saber el tiempo que hace</string>
     <string name="change_donkey_system">Cambiar a sistema burro</string>
     <string name="default_current_weather_image">Imagen del tiempo que hace</string>
-    <string name="max_temp_format">Temp. máxima: %.2fº</string>
-    <string name="min_temp_format">Temp. mínima: %.2fº</string>
+    <string name="max_temp_format" formatted="false">Temp. máxima: %.2f %s</string>
+    <string name="min_temp_format" formatted="false">Temp. mínima: %.2f %s</string>
     <string name="humidity_format">Humedad: %.0f%%</string>
+    <string name="farenheit_units">Unidades Farenheit</string>
+    <string name="celsius_units">Unidades Celsius</string>
+    <string name="select_units">Selecciona las unidades</string>
+    <string name="settings">Ajustes</string>
+    <string name="undo">Deshacer</string>
+    <string name="farenheit_selected">Se ha seleccionado Farenheit</string>
+    <string name="celsius_selected">Se ha seleccionado Celsius</string>
 </resources>
