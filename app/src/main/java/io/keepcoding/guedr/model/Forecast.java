@@ -1,7 +1,9 @@
-package io.keepcoding.guedr;
+package io.keepcoding.guedr.model;
 
 
-public class Forecast {
+import java.io.Serializable;
+
+public class Forecast implements Serializable {
 
     public final static int CELSIUS = 0;
     public final static int FARENHEIT = 1;

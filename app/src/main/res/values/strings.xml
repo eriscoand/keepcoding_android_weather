@@ -14,4 +14,12 @@
     <string name="undo">Deshacer</string>
     <string name="farenheit_selected">Se ha seleccionado Farenheit</string>
     <string name="celsius_selected">Se ha seleccionado Celsius</string>
+    <string name="title_activity_city_pager">CityPagerActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_title">Error!</string>
+    <string name="error_message">Omg! no weather status to show!</string>
+    <string name="error_reload">Reload</string>
+    <string name="transition_to_detail">transitionToDetail</string>
 </resources>
